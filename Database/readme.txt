@@ -1,0 +1,1 @@
+A hospital management database with constraints/triggers. some attributes are specified.
